@@ -35,3 +35,4 @@ export async function greeter(name: any) { // eslint-disable-line @typescript-es
 }
 
 console.log(greeter('teo2'));
+console.log('ok');
